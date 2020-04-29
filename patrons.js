@@ -14,9 +14,9 @@ window.patrons = [
         link: "https://steamcommunity.com/id/mrsquiid"
     },
     {
-        name: "M0N7Y5",
+        name: "montytrollic",
         donation: "🕵️‍♂️",
-        picture: "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8c93c104b2cefd78a5db4bc8f0d399f5b1a4eef2_full.jpg",
+        picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Anonymous.svg/173px-Anonymous.svg.png",
         social: null,
         link: null
     }
