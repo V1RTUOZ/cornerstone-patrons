@@ -16,7 +16,7 @@ window.patrons = [
     {
         name: "M0N7Y5",
         donation: "🕵️‍♂️",
-        picture: "https://www.unknowncheats.me/forum/customavatars/thumbs/avatar295691_2.gif",
+        picture: "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8c/8c93c104b2cefd78a5db4bc8f0d399f5b1a4eef2_full.jpg",
         social: null,
         link: null
     }
