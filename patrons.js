@@ -15,7 +15,7 @@ window.patrons = [
     },
     {
         name: "montytrollic",
-        donation: "🕵️‍♂️",
+        donation: "🤔",
         picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Anonymous.svg/173px-Anonymous.svg.png",
         social: null,
         link: null
