@@ -16,7 +16,7 @@ window.patrons = [
     {
         name: "montytrollic",
         donation: "🤔",
-        picture: "https://www.unknowncheats.me/forum/customavatars/thumbs/avatar295691_2.gif",
+        picture: null,
         social: null,
         link: null
     }
